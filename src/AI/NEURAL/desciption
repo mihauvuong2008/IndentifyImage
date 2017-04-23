@@ -1,0 +1,3 @@
+Mục tiêu dự báo trạng thái [tăng], [giảm] của giá CK trong ngày T+3
+dựa vào một số mẫu lịch sử của [x] loại CK khác và trạng thái chung của TT [VNINDEX]
+[Tập dữ liệu đầu vào]: thông tin đóng mở cửa của giá
